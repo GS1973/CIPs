@@ -7,7 +7,8 @@ Authors:
     - Smit Blockchain Operations (Pool BKIND) <developmentbkind@gmail.com>
 Implementors:
     - The Voice of ADA Holders <https://voiceofadaholders.com>
-Discussions: []
+Discussions:
+    - Original PR: https://github.com/cardano-foundation/CIPs/pull/1277
 Created: 2026-09-24
 License: CC-BY-4.0
 ---
